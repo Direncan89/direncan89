@@ -5,14 +5,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=direncan89" alt="direncan89" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/direncan089" target="blank"><img src="https://img.shields.io/twitter/follow/direncan089?logo=twitter&style=for-the-badge" alt="direncan089" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Direncan89?tab=repositories](https://github.com/Direncan89?tab=repositories)
-
+ 
 - 🌐 My Website **www.direncan.co.uk**
 
 - 📫 How to reach me **Direncan89@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/direncan-kaygisiz-1b3135258/](https://www.linkedin.com/in/direncan-kaygisiz-1b3135258/)
+- 📍 London, UK
 
 - ⚡ Fun fact **I am a great speaker!**
 
