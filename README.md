@@ -1,6 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://res.cloudinary.com/dxogsfbo2/image/upload/v1700868428/banner_e2tkav.png)
-<h1 align="center">Hi 👋, I'm Direncan</h1>
-<h3 align="center">A passionate junior full-stack developer from London,UK</h3>
+  ![MasterHead](https://res.cloudinary.com/dxogsfbo2/image/upload/v1700868428/banner_e2tkav.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=direncan89&label=Profile%20views&color=0e75b6&style=flat" alt="direncan89" /> </p>
 
