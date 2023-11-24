@@ -1,15 +1,16 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.canva.com/design/DAF1HlwIwbA/RolZwRi6PU1oshiAhUx4rg/view?utm_content=DAF1HlwIwbA&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://res.cloudinary.com/dxogsfbo2/image/upload/v1700868428/banner_e2tkav.png)
 <h1 align="center">Hi 👋, I'm Direncan</h1>
 <h3 align="center">A passionate junior full-stack developer from London,UK</h3>
-<img align="right" alt="coding" width="400" src="https://mograph.video/2P66dgL">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=direncan89&label=Profile%20views&color=0e75b6&style=flat" alt="direncan89" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=direncan89" alt="direncan89" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/direncan089" target="blank"><img src="https://img.shields.io/twitter/follow/direncan089?logo=twitter&style=for-the-badge" alt="direncan089" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Direncan89?tab=repositories](https://github.com/Direncan89?tab=repositories)
+
+- 🌐 My Website **www.direncan.co.uk**
 
 - 📫 How to reach me **Direncan89@gmail.com**
 
