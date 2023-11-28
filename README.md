@@ -9,7 +9,6 @@
 
   <p><a href="https://twitter.com/direncan089" target="_blank"><img src="https://img.shields.io/twitter/follow/direncan089?logo=twitter&style=for-the-badge" alt="Twitter" /></a></p>
   
-  <p>🌐 My Website <a href="www.direncan.co.uk">www.direncan.co.uk</a></p>
   <p>📫 How to reach me: Direncan89@gmail.com</p>
   <p>📍 London, UK</p>
   <p>⚡ Fun fact: I am a great speaker!</p>
