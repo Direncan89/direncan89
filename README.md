@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://asset.cloudinary.com/dxogsfbo2/ff2c4ea20991a917d2d099a141060e98" alt="MasterHead" />
+  <img src="https://res.cloudinary.com/dxogsfbo2/image/upload/v1702317954/Screenshot_2023-12-11_at_17.33.21_tija2b.png" alt="MasterHead" />
 </div>
 
 <div align="center">
