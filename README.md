@@ -11,7 +11,7 @@
 </p>
 
 <h2>
-  "Hello, I'm Direncan (pronounced Dee-ren-jan), a former men's hair stylist with over 13 years of experience. Recently, I made a dynamic career shift into front-end web development after completing an intensive 9-week web development bootcamp organized by the esteemed Le Wagon. Excited to bring my creativity and passion for design into crafting exceptional web experiences!"
+  "Hello, I'm Direncan (pronounced Dee-ren-jan), Iam thrilled about my transition from a successful 13-year career in men's hairstyling to the captivating realm of front-end web development! I recently completed an intensive 9-week web development bootcamp with Le Wagon, fueling my passion for crafting stunning digital experiences. While proficient in HTML, CSS, and Ruby on Rails, I'm driven to further elevate my expertise in JavaScript. Excited to immerse myself deeper into JavaScript's dynamic world and unlock its full potential in creating engaging web interfaces!"!"
 </h2>
   
   <p>📫 How to reach me: Direncan89@gmail.com</p>
