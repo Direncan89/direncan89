@@ -38,13 +38,10 @@ Hello, I'm Direncan (pronounced Dee-ren-jan)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Direncan89&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=direncan89&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=Direncan89&text_color=9f9f9f&bg_color=151515&layout=compact" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Direncan89&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=direncan89&" alt="GitHub Streak Stats" />
-</div>
