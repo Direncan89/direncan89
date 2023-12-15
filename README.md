@@ -44,7 +44,7 @@ Hello, I'm Direncan (pronounced Dee-ren-jan)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=direncan89&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Direncan89&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats" />
 </div>
 
 <div align="center">
