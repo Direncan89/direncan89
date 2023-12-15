@@ -35,9 +35,7 @@ Hello, I'm Direncan (pronounced Dee-ren-jan)
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=direncan89&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
 
-<div align="center">
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=direncan89" alt="GitHub profile trophy" /></a></p>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Direncan89&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=direncan89&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
